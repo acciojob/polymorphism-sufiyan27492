@@ -19,4 +19,5 @@ public class Main {
         System.out.println(p.p(7,7,4));
         System.out.println(p.p(4.6,7.5));
     }
+
 }
